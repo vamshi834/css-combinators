@@ -1,0 +1,12 @@
+article {
+    padding: 30px ;
+    background-color: aqua;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+div p {
+    font-size: 20px;
+    background-color: yellowgreen;
+}
